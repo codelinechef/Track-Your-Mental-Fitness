@@ -77,6 +77,3 @@ metal_fitness_tracker.ipynb
 
 ## 🧑‍💻 Author
 **Anant Sharma**  
-AI & Backend Developer | Data Science Enthusiast  
-📧 anantsharma.dev@gmail.com  
-🌐 [Portfolio](https://your-portfolio-link.com)
