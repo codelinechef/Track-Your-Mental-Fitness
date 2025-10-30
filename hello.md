@@ -5,7 +5,6 @@
 
 An extensible ReAct-style chatbot that persists user-scoped memories and uses semantic search to personalize future conversations. The agent saves key details across threads and reuses them for continuity, reduced clarification, and more helpful responses.
 
-![Memory Diagram](./static/memory_graph.png)
 
 ## Features
 
@@ -43,7 +42,6 @@ pytest -v  # optional: run tests
 
 3. Open in LangGraph Studio and chat with the `memory_agent` graph. Share details (name, preferences, etc.), then start a new thread and confirm the agent recalls your information.
 
-![Memories Explorer](./static/memories.png)
 
 ## Programmatic Use
 
